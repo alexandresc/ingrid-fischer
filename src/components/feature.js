@@ -8,12 +8,11 @@ const Feature = () => {
       <div class="container px-5 py-24 mx-auto">
         <div class="text-center mb-20">
           <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">
-            Raw Denim Heirloom Man Braid
+            Como posso te ajudar?
           </h1>
           <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
-            Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-            taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi
-            pug.
+            Aqui você encontrará todas as informações necessárias para te guiar
+            nesse mundo criativo digital.
           </p>
           <div class="flex mt-6 justify-center">
             <div class="w-16 h-1 rounded-full bg-indigo-500 inline-flex"></div>
@@ -36,15 +35,13 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                Shooting Stars
+              Design Gráfico
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+              Em um Design moderno, minimalista e clean, crio soluções visuais práticas para a sua mídia digital.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
-                Learn More
+                Saber mais
                 <svg
                   fill="none"
                   stroke="currentColor"
