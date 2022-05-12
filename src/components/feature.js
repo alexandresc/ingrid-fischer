@@ -35,13 +35,13 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-              Design Gráfico
+              DIREÇÃO CRIATIVA PARA MIDIAS E BRANDING
               </h2>
               <p class="leading-relaxed text-base">
-              Em um Design moderno, minimalista e clean, crio soluções visuais práticas para a sua mídia digital.
+              Na direção criativa voltada ao branding, trago a essência/comunicação da sua marca para o on-line e o off-line.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
-                Saber mais
+                Saiba mais
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -74,15 +74,13 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                The Catalyzer
+              DESIGNER GRÁFICO
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+              Em um Design moderno, minimalista e clean, crio soluções visuais práticas para a sua mídia digital.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
-                Learn More
+                Saiba mais
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -114,15 +112,13 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-                Neptune
+              IDENTIDADE VISUAL
               </h2>
               <p class="leading-relaxed text-base">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+              Criação de identidade visual com estudo técnico de tendência de mercado para a sua nova marca ou para posicionamento estratégico.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
-                Learn More
+                Saiba mais
                 <svg
                   fill="none"
                   stroke="currentColor"
