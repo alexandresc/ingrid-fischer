@@ -35,10 +35,11 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-              DIREÇÃO CRIATIVA PARA MIDIAS E BRANDING
+                DIREÇÃO CRIATIVA PARA MIDIAS E BRANDING
               </h2>
               <p class="leading-relaxed text-base">
-              Na direção criativa voltada ao branding, trago a essência/comunicação da sua marca para o on-line e o off-line.
+                Na direção criativa voltada ao branding, trago a
+                essência/comunicação da sua marca para o on-line e o off-line.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
                 Saiba mais
@@ -74,10 +75,11 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-              DESIGNER GRÁFICO
+                DESIGNER GRÁFICO
               </h2>
               <p class="leading-relaxed text-base">
-              Em um Design moderno, minimalista e clean, crio soluções visuais práticas para a sua mídia digital.
+                Em um Design moderno, minimalista e clean, crio soluções visuais
+                práticas para a sua mídia digital.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
                 Saiba mais
@@ -112,10 +114,12 @@ const Feature = () => {
             </div>
             <div class="flex-grow">
               <h2 class="text-gray-900 text-lg title-font font-medium mb-3">
-              IDENTIDADE VISUAL
+                IDENTIDADE VISUAL
               </h2>
               <p class="leading-relaxed text-base">
-              Criação de identidade visual com estudo técnico de tendência de mercado para a sua nova marca ou para posicionamento estratégico.
+                Criação de identidade visual com estudo técnico de tendência de
+                mercado para a sua nova marca ou para posicionamento
+                estratégico.
               </p>
               <a class="mt-3 text-indigo-500 inline-flex items-center">
                 Saiba mais
