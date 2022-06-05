@@ -5,6 +5,7 @@ import { Link } from "gatsby"
 const Header = ({ siteTitle }) => (
   <header class="text-gray-600 body-font">
     <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+      <Link to="/">
       <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -20,9 +21,10 @@ const Header = ({ siteTitle }) => (
         </svg>
         <span class="ml-3 text-xl">{ siteTitle }</span>
       </a>
+      </Link>
       <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-        <a class="mr-5 hover:text-gray-900">First Link</a>
-        <a class="mr-5 hover:text-gray-900">Second Link</a>
+        <Link to="/sobre"><a class="mr-5 hover:text-gray-900">Sobre</a></Link>
+        <Link to="/galeria"><a class="mr-5 hover:text-gray-900">Galeria</a></Link>
         <a class="mr-5 hover:text-gray-900">Third Link</a>
         <a class="mr-5 hover:text-gray-900">Fourth Link</a>
       </nav>
